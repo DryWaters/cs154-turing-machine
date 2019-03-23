@@ -1,0 +1,5 @@
+011Ax#xxOxx#xxxAxx#xxxAyy#yyyOy#yyyy
+110Ax#xxOxx#xxxAxx#xxxAyy#yyyOy#yyyy
+111Ax#xxOxx#xxxAxx#xxxAyy#yyyOy#yyyy
+1011Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
+1111Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy

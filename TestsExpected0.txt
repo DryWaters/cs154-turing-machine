@@ -1,0 +1,9 @@
+000Ax#xxOxx#xxxAxx#xxxAyy#yyyOy#yyyy
+010Ax#xxOxx#xxxAxx#xxxAyy#yyyOy#yyyy
+001Ax#xxOxx#xxxAxx#xxxAyy#yyyOy#yyyy
+100Ax#xxOxx#xxxAxx#xxxAyy#yyyOy#yyyy
+101Ax#xxOxx#xxxAxx#xxxAyy#yyyOy#yyyy
+#####
+0000Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
+1000Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
+1100Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
