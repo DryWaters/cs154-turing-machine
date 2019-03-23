@@ -21,17 +21,24 @@
 		</block>&#13;
 		<!--The list of transitions.-->&#13;
 		<transition>&#13;
-			<from>0</from>&#13;
-			<to>0</to>&#13;
-			<read>!@</read>&#13;
-			<write>~</write>&#13;
-			<move>L</move>&#13;
+			<from>1</from>&#13;
+			<to>2</to>&#13;
+			<read/>&#13;
+			<write/>&#13;
+			<move>R</move>&#13;
 		</transition>&#13;
 		<transition>&#13;
 			<from>0</from>&#13;
 			<to>1</to>&#13;
 			<read>@</read>&#13;
 			<write>@</write>&#13;
+			<move>L</move>&#13;
+		</transition>&#13;
+		<transition>&#13;
+			<from>0</from>&#13;
+			<to>0</to>&#13;
+			<read>!@</read>&#13;
+			<write>~</write>&#13;
 			<move>L</move>&#13;
 		</transition>&#13;
 		<transition>&#13;
@@ -48,16 +55,18 @@
 			<write>1</write>&#13;
 			<move>L</move>&#13;
 		</transition>&#13;
-		<transition>&#13;
-			<from>1</from>&#13;
-			<to>2</to>&#13;
-			<read/>&#13;
-			<write/>&#13;
-			<move>R</move>&#13;
-		</transition>&#13;
 		<!--The list of automata-->&#13;
 		<Machine0/>&#13;
 		<Machine2/>&#13;
 		<Machine1/>&#13;
+		<note>&#13;
+			<text>Move tape to
+last Y value
+which will be
+evaluated
+result</text>&#13;
+			<x>248.0</x>&#13;
+			<y>182.0</y>&#13;
+		</note>&#13;
 	</automaton>&#13;
 </structure>

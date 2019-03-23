@@ -282,46 +282,47 @@
 		<Machine5/>&#13;
 		<note>&#13;
 			<text>Find which Y value to use</text>&#13;
-			<x>330.0</x>&#13;
-			<y>128.0</y>&#13;
+			<x>384.0</x>&#13;
+			<y>152.0</y>&#13;
 		</note>&#13;
 		<note>&#13;
 			<text>Mark where to put 
 Y value</text>&#13;
-			<x>796.0</x>&#13;
-			<y>407.0</y>&#13;
+			<x>788.0</x>&#13;
+			<y>432.0</y>&#13;
 		</note>&#13;
 		<note>&#13;
 			<text>Reset values
 back to 0,1</text>&#13;
-			<x>1043.0</x>&#13;
-			<y>245.0</y>&#13;
+			<x>1067.0</x>&#13;
+			<y>279.0</y>&#13;
 		</note>&#13;
 		<note>&#13;
 			<text>Get value of 
 Y variable</text>&#13;
-			<x>1220.0</x>&#13;
-			<y>298.0</y>&#13;
+			<x>1277.0</x>&#13;
+			<y>309.0</y>&#13;
 		</note>&#13;
 		<note>&#13;
-			<text>Replace x with
-x's value</text>&#13;
-			<x>1390.0</x>&#13;
-			<y>310.0</y>&#13;
+			<text>Replace marker
+with y's value</text>&#13;
+			<x>1456.0</x>&#13;
+			<y>326.0</y>&#13;
 		</note>&#13;
 		<note>&#13;
 			<text>If have more variables
 to replace, move to next</text>&#13;
-			<x>1560.0</x>&#13;
-			<y>301.0</y>&#13;
+			<x>1611.0</x>&#13;
+			<y>320.0</y>&#13;
 		</note>&#13;
 		<note>&#13;
 			<text>No more variables
 to replace
 reset back to start
-of gate definition</text>&#13;
-			<x>1461.0</x>&#13;
-			<y>502.0</y>&#13;
+of gate definition
+to be evaluated</text>&#13;
+			<x>1512.0</x>&#13;
+			<y>546.0</y>&#13;
 		</note>&#13;
 	</automaton>&#13;
 </structure>
