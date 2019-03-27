@@ -15,8 +15,18 @@
 		</block>&#13;
 		<block id="2" name="q2">&#13;
 			<tag>Machine2</tag>&#13;
-			<x>462.0</x>&#13;
-			<y>143.0</y>&#13;
+			<x>459.0</x>&#13;
+			<y>141.0</y>&#13;
+		</block>&#13;
+		<block id="3" name="q3">&#13;
+			<tag>Machine3</tag>&#13;
+			<x>594.0</x>&#13;
+			<y>141.0</y>&#13;
+		</block>&#13;
+		<block id="4" name="q4">&#13;
+			<tag>Machine4</tag>&#13;
+			<x>699.0</x>&#13;
+			<y>139.0</y>&#13;
 			<final/>&#13;
 		</block>&#13;
 		<!--The list of transitions.-->&#13;
@@ -35,11 +45,25 @@
 			<move>L</move>&#13;
 		</transition>&#13;
 		<transition>&#13;
+			<from>3</from>&#13;
+			<to>4</to>&#13;
+			<read>~</read>&#13;
+			<write/>&#13;
+			<move>L</move>&#13;
+		</transition>&#13;
+		<transition>&#13;
 			<from>0</from>&#13;
 			<to>0</to>&#13;
 			<read>!@</read>&#13;
 			<write>~</write>&#13;
 			<move>L</move>&#13;
+		</transition>&#13;
+		<transition>&#13;
+			<from>2</from>&#13;
+			<to>3</to>&#13;
+			<read>~</read>&#13;
+			<write>~</write>&#13;
+			<move>R</move>&#13;
 		</transition>&#13;
 		<transition>&#13;
 			<from>1</from>&#13;
@@ -59,6 +83,8 @@
 		<Machine0/>&#13;
 		<Machine2/>&#13;
 		<Machine1/>&#13;
+		<Machine4/>&#13;
+		<Machine3/>&#13;
 		<note>&#13;
 			<text>Move tape to
 last Y value
