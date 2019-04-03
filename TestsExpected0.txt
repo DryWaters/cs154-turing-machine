@@ -9,5 +9,34 @@
 1000Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
 1100Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
 #Tests_for_https://github.com/DryWaters/cs154-turing-machine/blob/master/diagrams/diagram1.png
+#Tests_for_https://github.com/DryWaters/cs154-turing-machine/blob/master/diagrams/diagram2.png
+000Ax#xxOxx#xxxAxxx#xxAyy#yyyOy#yyyy
+010Ax#xxOxx#xxxAxxx#xxAyy#yyyOy#yyyy
+001Ax#xxOxx#xxxAxxx#xxAyy#yyyOy#yyyy
+100Ax#xxOxx#xxxAxxx#xxAyy#yyyOy#yyyy
+101Ax#xxOxx#xxxAxxx#xxAyy#yyyOy#yyyy
+#Tests_for_https://github.com/DryWaters/cs154-turing-machine/blob/master/diagrams/diagram3.png
+0000Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
+0001Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
+0010Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
+0100Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
+0110Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
+1000Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
+1001Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
+1010Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
+1100Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
+1110Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
+
+
+
+
+
+
+
+
+
+
+
+
 
 
