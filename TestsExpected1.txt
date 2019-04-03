@@ -3,5 +3,7 @@
 111Ax#xxOxx#xxxAxx#xxxAyy#yyyOy#yyyy
 1011Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
 1111Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
-#Tests_for_https://github.com/DryWaters/cs154-turing-machine/blob/daniel-testing/diagrams/diagram5.png
+#Tests_for_https://github.com/DryWaters/cs154-turing-machine/blob/master/diagrams/diagram5.png
 101011NxxxxxNxxxxxxAx#yAy#yyAxx#yAy#xxxxxxAxxx#xxxxxAxxxxx#yAxxxx#xxxxxAxxxxx#xxxxxxOyyy#yyyyOyyyyy#yyyyyyOyyyyyyy#yyyyyyyyOyyyyyyyyy#yyyyyyyyyyOyyyyyyyyyyy#yyyyyyyyyyyyOyyyyyyyyyyyyy#yyyyyyyyyyyyyyOyyyyyyyyyyyyyyy#yyyyyyyyyyyyyyyy
+
+#Tests_for_https://github.com/DryWaters/cs154-turing-machine/blob/master/diagrams/diagram1.png
