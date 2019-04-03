@@ -1,8 +1,3 @@
-011Ax#xxOxx#xxxAxx#xxxAyy#yyyOy#yyyy
-110Ax#xxOxx#xxxAxx#xxxAyy#yyyOy#yyyy
-111Ax#xxOxx#xxxAxx#xxxAyy#yyyOy#yyyy
-1011Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
-1111Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
 #Tests_for_https://github.com/DryWaters/cs154-turing-machine/blob/master/diagrams/diagram1.png
 000NxAxx#xxxAx#yyAy#yyyNyyNyyyyOyyy#yyyyyOyyyyyy#yyyyyyy
 010NxAxx#xxxAx#yyAy#yyyNyyNyyyyOyyy#yyyyyOyyyyyy#yyyyyyy
