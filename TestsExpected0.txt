@@ -30,9 +30,11 @@
 00Axx#xxAx#xAx#yAyy#xxAyyy#yyyy
 01Axx#xxAx#xAx#yAyy#xxAyyy#yyyy
 10Axx#xxAx#xAx#yAyy#xxAyyy#yyyy
-
-
-
+#Tests_for_https://github.com/DryWaters/cs154-turing-machine/blob/master/diagrams/diagram5.png
+000010NxxxxxNxxxxxxAx#yAy#yyAxx#yAy#xxxxxxAxxx#xxxxxAxxxxx#yAxxxx#xxxxxAxxxxx#xxxxxxOyyy#yyyyOyyyyy#yyyyyyOyyyyyyy#yyyyyyyyOyyyyyyyyy#yyyyyyyyyyOyyyyyyyyyyy#yyyyyyyyyyyyOyyyyyyyyyyyyy#yyyyyyyyyyyyyyOyyyyyyyyyyyyyyy#yyyyyyyyyyyyyyyy
+010010NxxxxxNxxxxxxAx#yAy#yyAxx#yAy#xxxxxxAxxx#xxxxxAxxxxx#yAxxxx#xxxxxAxxxxx#xxxxxxOyyy#yyyyOyyyyy#yyyyyyOyyyyyyy#yyyyyyyyOyyyyyyyyy#yyyyyyyyyyOyyyyyyyyyyy#yyyyyyyyyyyyOyyyyyyyyyyyyy#yyyyyyyyyyyyyyOyyyyyyyyyyyyyyy#yyyyyyyyyyyyyyyy
+100010NxxxxxNxxxxxxAx#yAy#yyAxx#yAy#xxxxxxAxxx#xxxxxAxxxxx#yAxxxx#xxxxxAxxxxx#xxxxxxOyyy#yyyyOyyyyy#yyyyyyOyyyyyyy#yyyyyyyyOyyyyyyyyy#yyyyyyyyyyOyyyyyyyyyyy#yyyyyyyyyyyyOyyyyyyyyyyyyy#yyyyyyyyyyyyyyOyyyyyyyyyyyyyyy#yyyyyyyyyyyyyyyy
+110010NxxxxxNxxxxxxAx#yAy#yyAxx#yAy#xxxxxxAxxx#xxxxxAxxxxx#yAxxxx#xxxxxAxxxxx#xxxxxxOyyy#yyyyOyyyyy#yyyyyyOyyyyyyy#yyyyyyyyOyyyyyyyyy#yyyyyyyyyyOyyyyyyyyyyy#yyyyyyyyyyyyOyyyyyyyyyyyyy#yyyyyyyyyyyyyyOyyyyyyyyyyyyyyy#yyyyyyyyyyyyyyyy
 
 
 
