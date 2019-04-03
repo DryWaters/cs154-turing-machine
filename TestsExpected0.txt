@@ -26,6 +26,10 @@
 1010Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
 1100Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
 1110Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
+#Tests_for_https://github.com/DryWaters/cs154-turing-machine/blob/master/diagrams/diagram4.png
+00Axx#xxAx#xAx#yAyy#xxAyyy#yyyy
+01Axx#xxAx#xAx#yAyy#xxAyyy#yyyy
+10Axx#xxAx#xAx#yAyy#xxAyyy#yyyy
 
 
 
